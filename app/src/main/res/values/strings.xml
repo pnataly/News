@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Top News</string>
+    <string name="time">time</string>
+    <string name="link">link</string>
+    <string name="description">description</string>
+    <string name="title">Title</string>
+    <string name="refresh">refresh</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="loading">Loading...</string>
+</resources>
